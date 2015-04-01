@@ -1,8 +1,7 @@
-JavaScript Client-Side Darkcoin Wallet Generator
+JavaScript Client-Side DASH Wallet Generator
 
-A fork of the liteaddress.org project located at:
-https://github.com/vertcoin/paperwallet
-https://github.com/litecoin-project/liteaddress.org
+A fork of the Darkcoin wallet project located at:
+https://github.com/darkcoin/paperwallet
 
 Provides an all-in-one HTML document with embedded JavaScript/Css/Images. The JavaScript is readable not minified and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
 
@@ -10,7 +9,7 @@ END USER NOTES:
 
  1) To print QRCode in IE8 you must enable the "Print Background Colors and Images" checkbox on the "Page Setup" screen.
 
- 2) For Bulk Wallet I recommended using Google Chrome, it's the fastest.
+ 2) For Bulk Wallet some recommended using Google Chrome, claiming it's the fastest.
 
  3) Requires IE8+, Firefox, Chrome or sufficient JavaScript support.
 
